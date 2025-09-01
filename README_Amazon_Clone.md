@@ -23,14 +23,9 @@ This project is a **front-end clone of Amazon’s e-commerce website** built usi
 - 🚀 Learned to build a **real-world e-commerce UI** using HTML and CSS.  
 - 🎨 Gained experience in **responsive web design**.  
 - ⚡ Improved skills in **CSS layouts (Flexbox/Grid)**.  
-- 📱 Created a project that mimics a popular platform, helpful for portfolio building.  
+- 📱 Created a project that mimics a popular platform, helpful for portfolio building.
 
----
-
-## 📷 Preview  
-(Add screenshots of your Amazon Clone here)  
-
----
+ --- 
 
 ## 🔧 How to Use  
 1. Clone this repository:  
